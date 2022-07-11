@@ -1,4 +1,4 @@
-## Removing a remote repository from github
+## Removing a remote repository from local git repo
 
 Let's say you've created a local git repository and have connected it to a GitHub repository by running the command `git remote add origin "your-github-repository"`.
 
